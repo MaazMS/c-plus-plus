@@ -20,8 +20,8 @@ int main()
 
    int 	inumber={10};								       // declaration and Initialization of variable .
    
-  cout << inumber << endl; 						//warning: 'inumber' is used uninitialized in this function
-	cout << &inumber << endl;
+  cout << inumber << endl; 						
+ cout << &inumber << endl;
 
 	return 0;
 

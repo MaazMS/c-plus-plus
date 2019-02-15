@@ -1,0 +1,14 @@
+  
+  definition 
+  
+  
+1.	constructor is special member function of class .
+2.	It is automatically initialize an object when its created .
+3.	It is same name as class name .
+4.	It does not return any data type not event void data type . 
+5.	If developer is not create the constructor than compiler automatically initialize default constructor .
+6.	It is initialize value to object members after storage is allocated to object .
+7.	constructor can be defined either inside of class definition or outside of class definition   by using 
+     class name and scope resolution :: operator
+
+

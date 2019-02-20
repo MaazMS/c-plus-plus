@@ -21,8 +21,8 @@ public:
 	void print()
 	{
 		cout << "value of number= "<<number<<endl;             /* warning: 'object.default_constructor::number'
-												                                  is used uninitialized in this function [-Wuninitialized]
-		 	 	 	 	 	 	 	 	 	 	                                   */
+									is used uninitialized in this function [-Wuninitialized] */
+		
 
 		cout << "value of number= "<<&number<<endl;
 	}

@@ -15,19 +15,18 @@ private :
 
 public:
 
-	default_constructor()						                        // warning: statement has no effect [-Wunused-value]
+	default_constructor()				    // warning: statement has no effect [-Wunused-value]
 	{
 
-		number;								                               // warning: statement has no effect [-Wunused-value]r
+		number;					     // warning: statement has no effect [-Wunused-value]
 
 	}
   
   
 	void print()
 	{
-		cout << "value of number= "<<number<<endl;          /* warning: 'object.default_constructor::number'
-												                                is used uninitialized in this function [-Wuninitialized]
-		 	 	 	 	 	 	 	 	 	 	                                  */
+		cout << "value of number= "<<number<<endl;        /* warning: 'object.default_constructor::number'
+								  is used uninitialized in this function [-Wuninitialized] */
 
 		cout << "value of number= "<<&number<<endl;
 	}

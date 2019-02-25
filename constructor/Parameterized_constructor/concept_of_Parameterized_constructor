@@ -1,0 +1,8 @@
+  The constructor that can take N number of  argument is called parameterized constructor .
+  It helps in initializing values of data element when an object is created.
+  It is used to initialize the different data elements of different objects with different values when they are created.
+  
+  The parameterized constructors can be called explicitly or implicitly.
+ 
+  class_name object_name =class_name(10, 50);   // Explicit call
+  class_name object_name(10, 50);               // Implicit call

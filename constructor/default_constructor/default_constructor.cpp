@@ -1,11 +1,3 @@
-/* Default constructor
- * If developer is not create the default constructor than compiler automatically initialize default constructor .
- * It does not take any argument .
- * It is also called as non-parameterize  constructor .
- * The user is not assign the value of data member for default constructor the is print garbage value .
-*/
-
-
 #include<iostream>
 
 using namespace std;
@@ -24,7 +16,7 @@ public:
 	default_constructor()
 	{
 
-		number=10;								// value assign by user
+		number=10;				// value assign by user
 
 	}
   

@@ -1,0 +1,11 @@
+
+constructor with default argument 
+
+It is also called default value.
+Default argument is a value provided in function declaration .
+If value is not provided by function then it give default value .
+If value pass by the function the default value is ignore .
+if pass multiple argument in main() function but in a class default argument class has
+not extra argument as compare the main() function argument then is give error .
+value assign by argument is left to right .
+value is not provided  by only middle argument and left argument .It's error .

@@ -9,3 +9,4 @@ if pass multiple argument in main() function but in a class default argument cla
 not extra argument as compare the main() function argument then is give error .
 value assign by argument is left to right .
 value is not provided  by only middle argument and left argument .It's error .
+

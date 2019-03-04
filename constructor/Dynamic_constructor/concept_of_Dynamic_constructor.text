@@ -1,0 +1,10 @@
+Dynamic constructor is used to allocate the memory to the objects at the run time.
+Memory is allocated at run time with the help of 'new' operator.
+
+There are two types using dynamic constructor . 
+
+1) pass the value use parameter .
+2) pass the value non-parameter .
+
+if use no parameter then use *pointer to accept and display using *pointer .
+if use parameter then use *pointer to accept and display using pointer .

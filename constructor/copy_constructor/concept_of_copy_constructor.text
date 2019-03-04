@@ -1,0 +1,21 @@
+copy constructor is use to initialize the another object of same class . 
+
+There are two types to declare copy constructor .
+1) default copy constructor 
+2) user defined
+
+Default copy constructor : 
+    It's create by compiler .
+    It's also called as Shallow copy  .
+    It's create copy of an object and copy all the data member variable as it .
+    It's share same memory allocation .
+
+User defined copy constructor :	
+     It's also called as Deep copy  .
+     It's not share same memory allocation .
+     
+There are two method to copy the object 
+1) constructor name object2 name (object1 name );
+2) constructor name object2 name=object1 name ;
+
+Explain : Object2 is copy data form  object1 .

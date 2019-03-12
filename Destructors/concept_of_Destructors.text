@@ -1,0 +1,4 @@
+Destructor is a member function which is delete an object.
+It is same name as the class name with using the symbol tilde(~) at prefix  of class name .
+It has no return type and it is also not accept any parameter .
+It is by default call if user is not written the code of destructor .

@@ -1,0 +1,18 @@
+ Allocate the memory at run time .
+ new operator is use to allocate the memory at run time .
+ There are 4 types to allocate the memory at run time
+ 
+ 1) pointer=new int ; 
+ 2) Assign the value of variable and than pass the variable in new operator .
+    example . 
+       int number;
+      *pointer =new int [number];
+ 3) pointer=new int [5];
+ 4) pointer=new int (5); 
+ 
+ Deallocate the memory at run time . 
+ delete operator is use to deallocate the memory which is allocated by new operator .
+ There are 2 types to deallocate the memory at run time  .
+ 
+ 1) delete variable_name;
+ 2) delete [] variable_name ;

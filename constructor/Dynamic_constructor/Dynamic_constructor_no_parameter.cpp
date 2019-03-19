@@ -16,8 +16,8 @@ public:
 	dynamic_constructor()				// dynamic constructor with no parameter .
 	{
 
-		pointer=new int;
-		*pointer=1;					// assign size of byte .
+		pointer=new int;            // allocate 2 byte
+							
 
 	}
 	void accept()
